@@ -15,5 +15,5 @@
     android:width="24dp"
     android:viewportWidth="24"
     android:viewportHeight="24">
-    <path android:fillColor="?android:attr/colorAccent" android:pathData="M5,13H19V11H5M3,17H17V15H3M7,7V9H21V7" />
+    <path android:fillColor="?android:attr/colorAccent" android:pathData="M10.304,1.186A0.7,0.7 90,0 0,9.314 0.197L5.259,4.252L1.204,0.197A0.7,0.7 90,0 0,0.214 1.186L4.269,5.241L0.214,9.297A0.7,0.7 90,1 0,1.204 10.286L5.259,6.231L9.314,10.286A0.7,0.7 90,0 0,10.304 9.297L6.248,5.241L10.304,1.186Z" />
 </vector>
